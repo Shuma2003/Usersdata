@@ -1,0 +1,11 @@
+body, html{
+    background: black;
+}
+
+h1{
+    margin: 100px 50px 50px 100px;
+    color: rgb(0, 197, 161);
+    text-align: center;
+    position: absolute;
+    
+}
